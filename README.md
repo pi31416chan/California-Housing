@@ -7,7 +7,7 @@ Layers:
 2. Dense(1)
 
 Model 2: Wide & Deep MLP Regression Model\
-![Wide & Deep MLP Model](Images\Wide&Deep_Architecture.png)
+![Wide & Deep MLP Model](/Images/Wide&Deep_Architecture.png)
 
 ## Conclusion
 The model does not perform as well as expected, there is rooms for improvement in prediction accuracy.\
